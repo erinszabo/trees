@@ -1,5 +1,5 @@
 from stack_copy import Stack
-from binary_search_tree_class import BinaryTree
+from binary_tree_class import BinaryTree
 import operator
 
 
